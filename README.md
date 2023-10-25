@@ -2,7 +2,6 @@
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeeunKim07&layout=compact)](https://github.com/HyeeunKim07/github-readme-stats)
 <!--
 **HyeeunKim07/HyeeunKim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/?q=pytho
